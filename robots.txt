@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cookcalc365.com/sitemap.xml
